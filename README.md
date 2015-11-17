@@ -2,6 +2,8 @@
 
 Here is an Authorization Plugin that is designed to automatically, seamlessly and silently add users to FileVault 2 while the user is authenticating at the Login Window.
 
+**Update for 10.11 El Capitan and Xcode 7**
+
 ## How to install
 
 The plugin must live here: `/Library/Security/SecurityAgentPlugins/FV2AuthPlugin.bundle`
